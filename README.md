@@ -20,7 +20,7 @@ At each position I recorded five plucks of the E2 string. The harmonics were ana
 
 This repo is a 2026 refresh. The original MATLAB analysis is rewritten as a tested Python module, rerun on the essay's data, and extended with a significance test and an ideal-string model. Figure, graph, table and equation numbers below refer to the essay.
 
-![Figure 4: Experimental set up](figures/original_2023/fig4_experimental_setup.jpg)
+![Figure 4: Experimental set up](figures/original_2023/fig4_experimental_setup.png)
 *Figure 4 — Experimental set up. The guitar is stabilised with bar clamps, and the string is raised 1 cm with a wooden skewer at the plucking position (blue tape). The signal is recorded through an Alesis Multimix 4 USB FX audio interface into Logic Pro at 44,100 Hz.*
 
 ## Theory
